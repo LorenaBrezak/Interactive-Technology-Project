@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 378.68 257.87">
+  <path d="M349.94,110.33h-19.91c-6.6,0-12,5.4-12,12v71.23c-9.45,0-17.11,4.46-17.11,9.96s7.66,9.96,17.11,9.96v2.55c-9.45,0-17.11,4.46-17.11,9.96s7.66,9.96,17.11,9.96c-9.45,0-17.11,4.46-17.11,9.96s7.66,9.96,17.11,9.96c2.62,0,4.21,0,6.64,0,1.66.03,3.7,0,5.36,0h19.91c6.6,0,12-5.4,12-12v-121.53c0-6.6-5.4-12-12-12Z" fill="#f49aba" stroke="#f54782" stroke-miterlimit="10" stroke-width="4"/>
+  <path d="M358.19,130.95h-59.52c-6.6,0-12-5.4-12-12v-34.17c0-6.6,5.4-12,12-12l64.45-13.59c.83-.17,1.68-.24,2.52-.14,5.71.7,10.22,5.45,10.53,11.26.02.43,0,.87-.06,1.29l-5.92,47.34c0,6.6-5.4,12-12,12Z" fill="#f49aba" stroke="#f54782" stroke-miterlimit="10" stroke-width="5"/>
+  <polygon points="52.88 3.31 279.87 66.89 282.81 132.76 55.81 196.33 52.88 3.31" fill="#fee9ee" stroke="#f54782" stroke-miterlimit="10" stroke-width="5"/>
+  <ellipse cx="52.88" cy="99.82" rx="50.38" ry="96.51" fill="#fcc3d4" stroke="#f54782" stroke-miterlimit="10" stroke-width="5"/>
+  <path d="M315.97,99.82c0,22.21-17.23,40.21-38.49,40.21s0-18,0-40.21-21.26-40.21,0-40.21,38.49,18,38.49,40.21Z" fill="#f383b6" stroke="#f54782" stroke-miterlimit="10" stroke-width="3"/>
+  <path d="M173.23,162.56c19.32-18.06,22.46-56.92,22.65-60.68.21-4.09,3.96-48-22.65-64.8l22.94,5.48c26.61,16.8,22.86,60.71,22.65,64.8-.19,3.76,1,29.5-18.32,47.56l-27.27,7.64Z" fill="#fffdea" stroke="#f54782" stroke-miterlimit="10" stroke-width="3"/>
+  <ellipse cx="202.36" cy="64.97" rx="6.55" ry="8.46" fill="#fff" stroke="#f54782" stroke-miterlimit="10"/>
+  <ellipse cx="206.71" cy="101.86" rx="6.55" ry="8.46" fill="#fff" stroke="#f54782" stroke-miterlimit="10"/>
+  <ellipse cx="198.81" cy="138.76" rx="6.55" ry="8.46" fill="#fff" stroke="#f54782" stroke-miterlimit="10"/>
+</svg>
